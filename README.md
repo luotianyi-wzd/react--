@@ -8,7 +8,7 @@
 ```
  git clone https://github.com/luotianyi-wzd/react---management
 
- cd react---management
+ cd react-pxq
 
  npm i  或者运行  yarn(推荐)
   
