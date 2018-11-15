@@ -1,6 +1,6 @@
 
 ## 技术栈：
-  react + adnt + redux + webpack + react-router + ES6/7/8 + echarts
+  react + antd + redux + webpack + react-router + ES6/7/8 + echarts
 
 
 ## 运行项目（nodejs 6.0+）
